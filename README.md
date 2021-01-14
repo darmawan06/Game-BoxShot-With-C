@@ -1,10 +1,15 @@
 Nama Kelompok : Tenbir
 
 Anggota
+
 1901002 Dikdik Darmawan
+
 1901092 Basuki Rahmat Firmansyah
+
 1900303 Bimantoro A.R
+
 1902943 Mochamad Rizky Farhan Auliya
+
 1907912 Fawwaz Kausar
 
 # Game-BoxShot
